@@ -1,0 +1,101 @@
+Ticket Number,Train No,Train Name,Passenger Name,Age,Gender,Date of Birth,Coach Number,Seat Number,Payment Done,Route Zone
+738977967938,10832,Duronto Express,Anand Pillai,71,Male,1953-10-10,A5,38,1318,ER
+868133569017,97531,Rajdhani Express,Yashwant Goyal,50,Male,1975-01-12,S2,35,313,WR
+560914383372,37327,Shatabdi Express,Asha Naik,45,Female,1980-03-18,A3,8,1476,NR
+496988451189,68801,Rajdhani Express,Alok Desai,79,Female,1945-06-09,S4,39,681,SR
+827282326645,70369,Rajdhani Express,Kavita Das,42,Female,1983-03-05,B1,29,587,NR
+943168988243,27284,Duronto Express,Harish Kapoor,67,Female,1957-12-26,S4,19,868,CR
+244911564875,14828,Duronto Express,Arun Yadav,64,Male,1960-06-07,A1,7,591,NR
+542109052653,27147,Shatabdi Express,Rajesh Thakur,50,Male,1975-02-28,A5,53,1486,ECR
+480882786738,48386,Duronto Express,Asha Naik,11,Male,2013-05-19,S4,67,1150,NR
+888410027261,60032,Shatabdi Express,Arun Yadav,50,Male,1974-04-23,A3,24,968,WR
+455869866619,69326,Shatabdi Express,Anand Pillai,36,Female,1989-02-14,B1,45,539,NR
+579888752745,42317,Humsafar Express,Ravi Tripathi,32,Male,1992-09-17,B5,26,965,SR
+438213604824,47507,Duronto Express,Akhil Tandon,24,Female,2000-07-03,B2,69,1185,ER
+106236221622,14954,Shatabdi Express,Kartik Sen,74,Female,1950-07-11,B1,57,358,SR
+561507868307,13385,Duronto Express,Bhavna Kapoor,57,Female,1968-01-20,S2,48,1450,ECR
+260954738124,49174,Garib Rath Express,Roshan Menon,69,Female,1955-11-02,B2,26,1132,WR
+305219841961,93638,Garib Rath Express,Farhan Qureshi,18,Female,2006-12-05,A4,69,704,CR
+555511658248,92575,Shatabdi Express,Vikram Reddy,79,Male,1945-07-28,A1,35,1368,ER
+408161204745,86561,Garib Rath Express,Kartik Sen,67,Female,1957-10-25,S2,50,337,NR
+840097119679,68646,Humsafar Express,Bhavna Kapoor,51,Male,1973-09-27,A4,71,1047,NR
+872519105746,33957,Rajdhani Express,Ajay Nanda,50,Female,1974-07-24,B2,4,1352,CR
+162369082595,55141,Duronto Express,Kailash Dubey,15,Male,2009-11-30,B1,58,1451,NR
+939828858558,67734,Shatabdi Express,Pooja Kulkarni,42,Male,1982-06-11,A1,31,550,WR
+139918640561,74346,Rajdhani Express,Ravi Tripathi,59,Female,1966-02-09,B2,66,483,SR
+314562077001,34927,Duronto Express,Simran Kaur,27,Male,1998-02-14,S3,15,250,ER
+381803711859,14083,Duronto Express,Meena Rao,7,Female,2017-04-15,S2,52,1291,SR
+205813801920,89011,Humsafar Express,Anjali Nair,17,Female,2007-11-23,A5,24,297,NR
+296654682222,69792,Shatabdi Express,Parul Kohli,65,Female,1959-03-29,B2,23,1495,WR
+807217602133,49713,Humsafar Express,Alok Desai,50,Female,1974-07-09,S3,50,503,CR
+149593671959,47072,Garib Rath Express,Sachin Malhotra,75,Female,1950-02-05,S4,67,981,ER
+771522115535,12952,Humsafar Express,Anjali Nair,19,Male,2005-12-17,S5,63,290,SR
+406900585578,41607,Shatabdi Express,Farhan Qureshi,8,Male,2016-04-17,S4,21,1347,WR
+925389975955,75749,Garib Rath Express,Manish Pandey,12,Male,2012-07-28,S5,65,212,WR
+330769970610,14593,Garib Rath Express,Alok Desai,71,Male,1953-10-05,S2,42,1126,ECR
+893301576458,96391,Garib Rath Express,Rohan Mehta,16,Male,2009-02-02,A3,10,1370,SR
+854779984984,48766,Rajdhani Express,Roshan Menon,37,Male,1987-04-19,A5,56,1305,ER
+112939984962,49932,Humsafar Express,Tanya Bose,72,Female,1952-11-21,S2,25,626,ER
+164674385586,88032,Rajdhani Express,Ajay Nanda,50,Male,1974-12-10,S3,65,1275,WR
+101390538367,61453,Humsafar Express,Roshan Menon,56,Female,1969-03-16,B5,11,270,CR
+706518260471,18746,Rajdhani Express,Anand Pillai,56,Female,1968-05-18,B2,34,1224,ECR
+403185452594,25032,Duronto Express,Parul Kohli,36,Female,1988-05-01,S2,13,1283,ER
+264070228165,46137,Rajdhani Express,Pradeep Chauhan,26,Female,1998-12-20,S2,36,633,WR
+317906005734,65259,Garib Rath Express,Meena Rao,61,Female,1963-04-22,B1,63,1359,CR
+412117445236,33681,Shatabdi Express,Pradeep Chauhan,7,Female,2017-09-26,S3,72,929,SR
+175442238218,75216,Rajdhani Express,Asha Naik,19,Female,2005-12-27,B4,32,385,SR
+791108339580,11326,Duronto Express,Kavita Das,11,Female,2013-05-02,A2,71,685,NR
+297388404887,96172,Shatabdi Express,Anjali Nair,40,Male,1985-03-17,S1,44,913,WR
+724806821860,44135,Duronto Express,Kiran Mishra,41,Male,1983-07-24,A3,43,1482,ECR
+162491476818,46692,Rajdhani Express,Suresh Iyer,55,Female,1969-08-14,B2,56,373,SR
+378377152802,67263,Duronto Express,Suresh Iyer,18,Male,2006-07-18,S4,34,649,WR
+456487594564,31722,Duronto Express,Asha Naik,23,Male,2001-07-16,A1,25,668,NR
+984154905161,21416,Duronto Express,Ravi Tripathi,11,Female,2013-05-14,S3,4,956,WR
+991048536880,50237,Humsafar Express,Amit Sharma,30,Female,1995-03-06,A4,21,1224,SR
+645686310212,65994,Rajdhani Express,Harish Kapoor,40,Female,1984-06-17,A2,47,957,ECR
+595700646172,33583,Garib Rath Express,Pradeep Chauhan,19,Female,2005-05-18,A2,68,521,SR
+567473973521,48754,Duronto Express,Anand Pillai,47,Male,1978-01-14,B1,26,468,SR
+844028411188,40141,Garib Rath Express,Anita Gupta,5,Male,2019-10-20,B5,31,1469,WR
+759324450680,75021,Duronto Express,Rajesh Thakur,62,Male,1962-07-25,A5,14,1389,NR
+195273652448,79382,Shatabdi Express,Swati Dubey,76,Female,1948-09-25,A1,71,645,NR
+526964411418,96112,Duronto Express,Vikram Reddy,6,Female,2018-04-16,B4,9,1359,ECR
+388463944224,57718,Humsafar Express,Akhil Tandon,71,Male,1953-07-25,B4,56,1460,SR
+282063777921,31801,Shatabdi Express,Anand Pillai,68,Female,1956-12-07,A2,32,1289,ECR
+901268931019,75237,Shatabdi Express,Rajesh Thakur,28,Male,1996-10-09,S3,11,1032,CR
+537055789894,79312,Humsafar Express,Sachin Malhotra,49,Female,1976-03-04,S1,23,1046,SR
+323619778880,33779,Shatabdi Express,Meena Rao,64,Male,1960-08-26,B1,37,1374,ER
+278955836113,85658,Rajdhani Express,Rekha Ghosh,55,Male,1969-04-29,A5,34,1147,NR
+799290735112,99612,Garib Rath Express,Arun Yadav,67,Female,1957-08-19,S4,66,385,ER
+554552288426,58383,Duronto Express,Kartik Sen,6,Male,2019-02-15,B2,26,253,CR
+464073026811,91197,Shatabdi Express,Vikram Reddy,10,Male,2014-07-01,B2,17,1161,ECR
+278056146493,15208,Rajdhani Express,Deepak Choudhary,10,Female,2014-06-17,A1,44,232,WR
+444609782456,53078,Duronto Express,Ajay Nanda,67,Male,1957-08-12,B3,6,1397,ECR
+164866948352,84945,Garib Rath Express,Anjali Nair,40,Male,1984-09-19,B2,37,978,ER
+140525197610,84001,Humsafar Express,Suresh Iyer,35,Female,1989-05-19,S5,14,1490,CR
+923884807570,78824,Garib Rath Express,Vikram Reddy,29,Female,1995-07-14,B3,54,616,SR
+178784360029,52570,Shatabdi Express,Bhavna Kapoor,45,Male,1979-12-19,S4,20,1063,WR
+184396925864,66106,Humsafar Express,Rahul Verma,65,Male,1959-06-15,B5,67,727,WR
+320171372128,39374,Shatabdi Express,Ajay Nanda,57,Female,1967-12-31,A4,40,930,NR
+397263978684,52478,Shatabdi Express,Shalini Mohan,45,Female,1980-01-14,S5,16,672,ECR
+803936853680,57672,Duronto Express,Kailash Dubey,36,Female,1988-05-10,B2,13,656,ECR
+529411779339,51322,Duronto Express,Rajesh Thakur,55,Male,1969-07-13,A5,18,1309,ECR
+969721343545,25921,Rajdhani Express,Ravi Tripathi,45,Male,1979-03-27,A5,25,1441,CR
+237847226385,30128,Garib Rath Express,Yashwant Goyal,46,Male,1979-03-17,A4,42,982,ECR
+330085369582,58094,Shatabdi Express,Vivek Saxena,19,Male,2006-01-28,B3,54,580,ECR
+693892015319,66801,Rajdhani Express,Shalini Mohan,69,Female,1955-10-10,B4,17,1448,ECR
+633616510925,36107,Shatabdi Express,Anjali Nair,19,Male,2005-12-28,A1,43,1380,NR
+686296006853,33071,Shatabdi Express,Ravi Tripathi,59,Female,1965-12-16,S3,20,1230,WR
+983025331055,73330,Shatabdi Express,Roshan Menon,42,Female,1983-02-02,S3,63,486,WR
+353944119614,89048,Duronto Express,Rekha Ghosh,17,Male,2008-03-07,B3,17,814,ECR
+308115177315,21111,Rajdhani Express,Tanya Bose,34,Female,1990-12-12,B2,46,1401,ECR
+959590884382,73871,Rajdhani Express,Kiran Mishra,76,Male,1948-08-16,B4,37,331,ECR
+734792180542,44205,Rajdhani Express,Sunita Bansal,42,Female,1982-10-13,B1,20,1430,CR
+886495157390,72599,Rajdhani Express,Shalini Mohan,69,Male,1955-10-02,S5,10,671,SR
+831556531688,84299,Rajdhani Express,Farhan Qureshi,48,Male,1976-08-10,A3,42,486,WR
+507162525404,32021,Duronto Express,Sunita Bansal,6,Female,2018-06-24,B2,69,524,ECR
+766665474277,60561,Garib Rath Express,Kartik Sen,52,Female,1972-06-17,B1,13,1487,SR
+659056883418,58547,Rajdhani Express,Roshan Menon,47,Female,1978-03-18,S5,65,1129,NR
+694147289802,72872,Shatabdi Express,Meena Rao,64,Female,1960-05-22,S4,18,801,WR
+750170061900,48626,Duronto Express,Vimal Sethi,80,Male,1944-12-22,A3,54,812,NR
+274637031634,12540,Humsafar Express,Sachin Malhotra,50,Male,1974-10-23,B4,45,1382,WR
+608070373354,60176,Rajdhani Express,Ishaan Batra,25,Male,1999-07-08,B3,36,454,WR
